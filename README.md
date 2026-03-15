@@ -1,5 +1,5 @@
 # thaisc-vllm
-Make VLLM working in ThaiSC LANTA
+Make vLLM working in ThaiSC LANTA
 
 Build apptainer before upload to ThaiSC LANTA
 ```
